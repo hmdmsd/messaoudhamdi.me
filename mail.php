@@ -1,7 +1,7 @@
 <?php
 
-$recepient = "your.mail@here.com";
-$sitename = "Hamdi";
+$recepient = "messaoud.hamdi@supcom.tn";
+$sitename = "Hamdi Messaoud";
 
 $name = trim($_POST["name"]);
 $email = trim($_POST["email"]);
