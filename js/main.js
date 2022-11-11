@@ -169,7 +169,7 @@ $(function() {
     }
   });
 
-  bar.animate(.9);
+  bar.animate(.3);
 
   var bar = new ProgressBar.Line(lineprog2, {
     strokeWidth: 1.72,
@@ -186,7 +186,7 @@ $(function() {
     }
   });
 
-  bar.animate(.7);
+  bar.animate(.4);
 
   var bar = new ProgressBar.Line(lineprog3, {
     strokeWidth: 1.72,
@@ -203,7 +203,7 @@ $(function() {
     }
   });
 
-  bar.animate(.5);
+  bar.animate(.4);
 
   var bar = new ProgressBar.Line(lineprog4, {
     strokeWidth: 1.72,
@@ -237,7 +237,7 @@ $(function() {
     }
   });
 
-  bar.animate(.85);
+  bar.animate(.5);
 
   // Contact form
   $('.art-input').keyup(function() {
